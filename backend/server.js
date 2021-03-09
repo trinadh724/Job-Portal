@@ -28,7 +28,7 @@ app.use(bodyParser.urlencoded({
 // Connection to MongoDB
 
 mongoose.connect(
-  "mongodb+srv://trinadh:trinadh@cluster0.fx00n.mongodb.net/DB?retryWrites=true&w=majority", {
+  // replace this with your own key, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
