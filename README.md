@@ -1,3 +1,6 @@
+NOTE: Please add your mongoDb uri in mongoose.connect which is there in server.js file in backend folder.
+
+
 To Start the app
 
 Run this backend folder
